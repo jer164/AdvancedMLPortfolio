@@ -1,4 +1,4 @@
-## Jqckson Rudoff's Advanced ML Portfolio
+## Jackson Rudoff's Advanced ML Portfolio
 
 This repo serves as a portfolio of my work for QMSS 5074: Advanced Projects in Machine Learning. 
 
